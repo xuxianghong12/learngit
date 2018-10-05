@@ -53,4 +53,4 @@ if filereadable("/etc/vim/vimrc.local")
 endif
 set softtabstop=4
 set tabstop=4
-
+set encoding=utf-8
